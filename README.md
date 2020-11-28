@@ -2,3 +2,4 @@
 shirt
 tshirt
 jeans
+trousers
